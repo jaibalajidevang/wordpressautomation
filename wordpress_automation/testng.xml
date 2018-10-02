@@ -1,0 +1,7 @@
+<suite name="TheInternet\HerokuApp">
+	 <test name="RegressionTest">
+		 <classes>
+		 	<class name="HerokuApp.P1AB_Test" />
+		 </classes>
+	 </test>
+</suite>
