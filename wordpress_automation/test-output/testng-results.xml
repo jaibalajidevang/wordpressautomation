@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33814" started-at="2018-10-06T11:57:52Z" finished-at="2018-10-06T11:58:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33814" started-at="2018-10-06T11:57:52Z" finished-at="2018-10-06T11:58:26Z">
+      <class name="HerokuApp.P9ChallengingDOM">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:HerokuApp.P9ChallengingDOM@735b5592]" name="setUp" is-config="true" duration-ms="33595" started-at="2018-10-06T17:27:52Z" finished-at="2018-10-06T17:28:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:HerokuApp.P9ChallengingDOM@735b5592]" name="test" duration-ms="205" started-at="2018-10-06T17:28:26Z" finished-at="2018-10-06T17:28:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- HerokuApp.P9ChallengingDOM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
